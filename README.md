@@ -20,3 +20,4 @@ aprueba o reprueba, corregido siguiendo buenas prácticas de desarrollo.
 | `console.log` y código comentado | Ruido innecesario en producción | Eliminados |
 
 ## Sitio publicado
+https://taller-integrador-mendozamilian.netlify.app
